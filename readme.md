@@ -10,3 +10,4 @@ Currently all back-end, front-end interfacte coming soon.
 - Model validation with the validator package
 - File uploads using Multer
 - Image formatting via Sharp
+- Unit tests using Jest and supertest
